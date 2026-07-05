@@ -20,3 +20,4 @@ Please, find [my CV* using this link](https://www.cvmaker.com/).
 | [Test plan](https://qatestlab.com/resources/knowledge-center/sample-deliverables/test-plan/)      |    Outliens scope, objectives, and testing methodology |
 | [Checklist](https://www.checkli.com/)      |    High-level functional checklist used for quick feature verification |
 | [Final test report](https://www.testrail.com/blog/test-reporting-success/)      |    A summary report detailing testing results and bug distribution |
+| [Pairwise testing](https://docs.google.com/spreadsheets/d/1ktnJw7DmpaLdwN4EGDCPbNZQYj4TAfS3/edit?gid=213330742#gid=213330742) | This is a test design technique example |
