@@ -21,3 +21,18 @@ Please, find [my CV* using this link](https://www.cvmaker.com/).
 | [Checklist](https://www.checkli.com/)      |    High-level functional checklist used for quick feature verification |
 | [Final test report](https://www.testrail.com/blog/test-reporting-success/)      |    A summary report detailing testing results and bug distribution |
 | [Pairwise testing](https://docs.google.com/spreadsheets/d/1ktnJw7DmpaLdwN4EGDCPbNZQYj4TAfS3/edit?gid=213330742#gid=213330742) | This is a test design technique example |
+
+### Tech skills :computer:
+* [SQL](https://support.microsoft.com/pl-pl/office/j%C4%99zyk-access-sql-podstawowe-poj%C4%99cia-s%C5%82ownictwo-i-sk%C5%82adnia-444d0303-cde1-424e-9a74-e8dc3e460671)
+
+| syntax and order of execution | comparison operators | logical operators | scalar functions                 | aggregation functions | others
+|:-----------------------------:|:--------------------:|:-----------------:|:--------------------------------:|:---------------------:|:-------:|
+| SELECT (*, LIKE, TOP)         |          =           | AND               | GETDATE                          | COUNT ()              | JOIN    |
+| FROM                          |         !=           |   BETWEEN         | UPPER                            | SUM ()                | AS      |
+| WHERE                         |         <>           |    IN             | LOWER                            | MIN ()                |  UNION  |
+| GROUP BY                      |          >           |    LIKE           | DATEDIFF (HOUR, MONTH, YEAR etc.)|                       |         |
+| ORDER BY (ASC, DESC)          |          <           |    NOT            |                                  |                       |         |
+|  UPDATE (SET)                 |         >=           |    OR             |                                  |                       |         |
+|    ALTER TABLE (ADD)          |         <=           |    IS NULL        |                                  |                       |         |
+|  INSERT INTO                  |         !<           |    IS NOT NULL    |                                  |                       |         |
+|                               |         !>           |                   |                                  |                       |         |
